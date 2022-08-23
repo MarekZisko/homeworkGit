@@ -2,3 +2,4 @@ I strongly agree with first habit, because it's really important to maintain hea
 Even though I don't have much experience i can relate with this point, since I was also trying to customize some parts of the code, that took lot of hours, but in the end it didn't make any difference.
 Again I have to agree with the third point. It's important to keep code as simple as possible. Especially if somone else will work with this code.
 I would say, that it's really hard to get into 'the zone', because for most people it's almost impossible to have such a long period of time without being interupted, especially when it's so easy to get distracted.
+It's really important to move forward and learn new things all the time, since programming is very dynamic segment and while most people don't like to learn, it makes huge difference.
